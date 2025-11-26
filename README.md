@@ -164,4 +164,4 @@ L’implémentation du codeur/décodeur Huffman est :
 
 Le programme reconstruit toujours le fichier original sans perte, et son efficacité dépend logiquement de la structure statistique du fichier en entrée.
 
-participant : Zaidi Arris et [@Lydiacmd]((https://github.com/lydiacmd))
+participant : Zaidi Arris et [@Lydiacmd](https://github.com/lydiacmd)
